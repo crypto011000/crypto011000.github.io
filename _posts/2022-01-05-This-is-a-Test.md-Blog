@@ -1,0 +1,9 @@
+Let's see what we can do! This is a code block
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+
+ Let's add some `inline code` or 'inline code'.
